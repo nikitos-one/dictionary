@@ -1,4 +1,4 @@
-# sakura
+# dictionary
 
 ## Project setup
 ```
